@@ -1,0 +1,19 @@
+{
+  "name": "bookmarks-spike",
+  "version": "1.0.0",
+  "description": "spike for personal bookmark manager app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndmekala/bookmarks-spike.git"
+  },
+  "author": "Nirmal Mekala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndmekala/bookmarks-spike/issues"
+  },
+  "homepage": "https://github.com/ndmekala/bookmarks-spike#readme"
+}
