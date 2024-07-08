@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5", // or higher target version as needed
+    "lib": ["dom", "esnext"], // ensure 'dom' is included
+    "jsx": "react", // enable JSX support
+    "esModuleInterop": true, // if using modules
+    "strict": true // recommended for stricter type checking
+  }
+}
+
